@@ -1,11 +1,17 @@
 #NoAd
 #2345清爽导航
 2345.com###right
-2345.com###sidenav
-2345.com###search-bd-ad
+
+2345.com###sidenav2
+
+345.com###search-bd-ad
+
 2345.com###J_search_translucency
+
 2345.com###header-news01
+
 2345.com###J_kzjx > DL:nth-child(5)
+
 2345.com###nav > UL.mz-list:last-child
 2345.com###nav > UL.mz-list.borderbt:nth-child(2)
 2345.com###J_kzjx > DL:nth-child(2)
