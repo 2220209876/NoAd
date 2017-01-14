@@ -1,6 +1,10 @@
 [Adblock Plus 2.0]
-! Version:2017年1月14日 16:17:50 
-! Title:  NoAd by YuanEn
+! Version: 201701141617 
+! Title: NoAd by YuanEn
+! Homepage: http://user.qzone.qq.com/2220209876
+! Expires: 1 days (update frequency)
+! Last modified: 2017/01/14 16:17 +0800
+! Email: 2220209876@qq.com
 !---------------------------2345清爽导航---------------------------!
 2345.com###right
 2345.com###sidenav
