@@ -36,5 +36,5 @@
 2345.com###J_kzjx > H2:nth-child(15)
 2345.com##.bottom_inner
 !---------------淘宝优先密码登录 就是不扫二维码---------------!
-login.taobao.com##div.quick-form:has(.qrcode-login)
-login.taobao.com#$##J_StaticForm{display:block!important;}
+!login.taobao.com##div.quick-form:has(.qrcode-login)
+!!login.taobao.com#$##J_StaticForm{display:block!important;}
