@@ -6,7 +6,7 @@
 ! Last modified: 2017/01/17 20:00 +0800
 ! Email: 2220209876@qq.com
 ! Redirect: https://coding.net/u/YuanEn/p/NoAd/git/raw/master/NoAd.txt
-!---------------------------2345清爽导航---------------------------!
+!---------------------------2345QingShuang---------------------------!
 2345.com###right
 2345.com###sidenav
 2345.com###search-bd-ad
@@ -36,6 +36,6 @@
 2345.com###J_kzjx > DL:nth-child(16)
 2345.com###J_kzjx > H2:nth-child(15)
 2345.com##.bottom_inner
-!---------------淘宝优先密码登录 就是不扫二维码---------------!
+!---------------TaoBaoYouXianMimaDengLu---------------!
 login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
