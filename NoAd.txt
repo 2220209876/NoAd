@@ -2,9 +2,10 @@
 ! Version: 201701161700 
 ! Title: NoAd by YuanEn
 ! Homepage: http://user.qzone.qq.com/2220209876
-! Expires: 1 days (update frequency)
+! Expires: 1 hours
 ! Last modified: 2017/01/16 17:00 +0800
 ! Email: 2220209876@qq.com
+! Redirect: https://coding.net/u/YuanEn/p/NoAd/git/raw/master/NoAd.txt
 !---------------------------2345清爽导航---------------------------!
 2345.com###right
 2345.com###sidenav
