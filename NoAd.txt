@@ -10,7 +10,7 @@
 !  YuanEn Q2220209876  ZiYong
 !------------------------------QingShuang-2345--------------------------!
 ! 2345YingXiaoHuoDong 
-www.2345.com###w_wp
+!www.2345.com###w_wp
 2345.com##.mod.activity-mz-thcsn
 2345.com##.fred
 ###corner_div
