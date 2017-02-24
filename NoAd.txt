@@ -9,49 +9,64 @@
 !  ChongDiangXiang Redirecthttps://coding.net/u/YuanEn/p/NoAd/git/raw/master/NoAd.txt
 !  YuanEn Q2220209876  ZiYong
 !------------------------------QingShuang-2345--------------------------!
-! 2345YingXiaoHuoDong 
-www.2345.com###w_wp
-2345.com##.mod.activity-mz-thcsn
-2345.com##.fred
-###corner_div
-2345.com###right
-2345.com###sidenav
-! SousSouSuoKuangReCi 
-2345.com###search-bd-ad
-! SousSouSuoKuangBeiJing 
-||www.2345.com/images/index/mod-search-bg.png$image
-2345.com###J_search_translucency
-2345.com###header-news01
-2345.com##.mzdh_bottom
-2345.com###J_kzjx > DL:nth-child(5)
-2345.com###nav > UL.mz-list:last-child
-! DiBuTuPian 
-2345.com##.bottom_outer
-2345.com###nav > UL.mz-list.borderbt:nth-child(2)
-2345.com###J_kzjx > DL:nth-child(2)
-2345.com###nav > UL.mz-list:last-child > LI:nth-child(19)
-2345.com###map_game
-2345.com###map_video
-2345.com###map_these
-2345.com###map_life
-2345.com###footer
-2345.com###map_buy
-2345.com###sh_hd
-2345.com##.top_left
-2345.com##.p_area
-2345.com##.top_logo
-2345.com##.chc-dzoem
-2345.com##.linebottom_kz
-2345.com###J_kzjx > DL:nth-child(25)
-2345.com###J_kzjx > DL:nth-child(13)
-2345.com###J_kzjx > DL.noline:nth-child(14)
-2345.com###J_kzjx > DL:nth-child(16)
-2345.com###J_kzjx > H2:nth-child(15)
-2345.com##.bottom_inner
-2345.com###userct3_down > ol > li.jifen:nth-child(3)
-2345.com###userct3_down > ol > li.sjlm:nth-child(4)
-2345.com###userct2_down > ol > li.jifen:nth-child(4)
-2345.com###userct2_down > ol > li.sjlm:last-child
+www.2345.com###map_game
+www.2345.com###map_video
+www.2345.com###map_buy
+www.2345.com###map_these
+www.2345.com###map_life
+www.2345.com##.chc-dzoem
+www.2345.com###nav > .mz-list:nth-of-type(1)
+www.2345.com##.mz-list:nth-of-type(2)
+www.2345.com###J_kzjx > dl:nth-of-type(1)
+www.2345.com###J_kzjx > H2:nth-child(9) > A:nth-child(11)
+! www.2345.com##dl:nth-of-type(1)
+www.2345.com##dl:nth-of-type(4)
+www.2345.com##dl:nth-of-type(8)
+www.2345.com##dl:nth-of-type(12)
+www.2345.com##dl:nth-of-type(14)
+www.2345.com##h2:nth-of-type(2) > a[href^="http://www.2345.com/ershouche.htm"]
+www.2345.com##h2:nth-of-type(2) > a[href="http://www.duote.com/"]
+www.2345.com##h2:nth-of-type(3) > a[href^="https://www.166cai.com/ssq"]
+www.2345.com##h2:nth-of-type(3) > a[href^="https://www.166cai.com/"]:nth-of-type(3)
+www.2345.com##h2:nth-of-type(2) > a[href^="http://licai.2345.com/gupiao/"]
+www.2345.com##a[href="http://game.2345.com/qipai.htm"]
+www.2345.com##.first > a[href^="http://wan.2345.com/"]
+www.2345.com##.first > a[href="http://xiaoyouxi.2345.com/"]
+www.2345.com##.first > a[href="http://www.contentchina.com/zhibo/"]
+www.2345.com##h2:nth-of-type(3) > .cut:nth-of-type(6)
+www.2345.com##h2:nth-of-type(3) > .cut:nth-of-type(4)
+www.2345.com##h2:nth-of-type(3) > .cut:nth-of-type(3)
+www.2345.com##h2:nth-of-type(2) > .cut:nth-of-type(4)
+www.2345.com##h2:nth-of-type(2) > .cut:nth-of-type(3)
+www.2345.com##h2:nth-of-type(2) > .cut:nth-of-type(1)
+!www.2345.com##.linebottom_kz:nth-of-type(3)
+www.2345.com##.first > .cut:nth-of-type(9)
+www.2345.com##.first > .cut:nth-of-type(8)
+www.2345.com##.first > .cut:nth-of-type(7)
+www.2345.com##.first > .cut:nth-of-type(2)
+www.2345.com###sidenav
+www.2345.com##dl:nth-of-type(10)
+www.2345.com##dl:nth-of-type(17)
+!top
+www.2345.com##.top_logo
+www.2345.com##.top_left
+www.2345.com###userct4
+www.2345.com###userct3_down > ol > li.jifen:nth-child(3)
+www.2345.com###userct3_down > ol > li.sjlm:nth-child(4)
+www.2345.com###userct2_down > ol > li.jifen:nth-child(4)
+www.2345.com###userct2_down > ol > li.sjlm:last-child
+www.2345.com###J_search_bd > DIV.mes-area:nth-child(3)
+! right
+! www.2345.com###right
+www.2345.com###J_gameChannel
+2345.com##.mod.event1.event1-hasList
+www.2345.com###J_entertainChannel
+www.2345.com##dd:nth-of-type(7)
+www.2345.com##.even-item:nth-of-type(12)
+! www.2345.com##.item-first.item > .bdArea > .data:nth-of-type(2)
+! www.2345.com##.item:nth-of-type(2) > .bdArea > .data:nth-of-type(5)
+! www.2345.com##.item:nth-of-type(3) > .bdArea > .data:nth-of-type(5)
+||www.2345.com/theme/skinimg/1/theme_bot.jpg$image
 !--------------------------TaoBaoYouXianMimaDengLu-----------------------!
 !login.taobao.com##div.quick-form:has(.qrcode-login)
 !login.taobao.com#$##J_StaticForm{display:block!important;}
