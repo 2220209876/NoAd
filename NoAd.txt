@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 201702271000
 ! Expires: 1 days
-! Title: A NoAd On GitHub by YuanEn
+! Title: A NoAd on GitHub by YuanEn
 ! Homepage: http://user.qzone.qq.com/2220209876
 ! Last modified: 2017/02/27 10:00 +0800
 ! License: https://easylist-downloads.adblockplus.org/COPYING
