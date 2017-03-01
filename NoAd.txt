@@ -1,72 +1,74 @@
 [Adblock Plus 2.0]
-! Version: 201702171000
+! Version: 201702271000
 ! Expires: 1 days
-! Title: A NoAd by YuanEn
+! Title: A NoAd On GitHub by YuanEn
 ! Homepage: http://user.qzone.qq.com/2220209876
-! Last modified: 2017/02/17 10:00 +0800
+! Last modified: 2017/02/27 10:00 +0800
 ! License: https://easylist-downloads.adblockplus.org/COPYING
 ! Email: Q2220209876@gmail.com
-!  ChongDiangXiang Redirecthttps://coding.net/u/YuanEn/p/NoAd/git/raw/master/NoAd.txt
+!  ChongDiangXiang Redirecthttps://raw.githubusercontent.com/2220209876/NoAd/master/NoAd.txt
 !  YuanEn Q2220209876  ZiYong
 !------------------------------QingShuang-2345--------------------------!
-www.2345.com###map_game
-www.2345.com###map_video
-www.2345.com###map_buy
-www.2345.com###map_these
-www.2345.com###map_life
-www.2345.com##.chc-dzoem
-www.2345.com###nav > .mz-list:nth-of-type(1)
-www.2345.com##.mz-list:nth-of-type(2)
-www.2345.com###J_kzjx > dl:nth-of-type(1)
-www.2345.com###J_kzjx > H2:nth-child(9) > A:nth-child(11)
-! www.2345.com##dl:nth-of-type(1)
-www.2345.com##dl:nth-of-type(4)
-www.2345.com##dl:nth-of-type(8)
-www.2345.com##dl:nth-of-type(12)
-www.2345.com##dl:nth-of-type(14)
-www.2345.com##h2:nth-of-type(2) > a[href^="http://www.2345.com/ershouche.htm"]
-www.2345.com##h2:nth-of-type(2) > a[href="http://www.duote.com/"]
-www.2345.com##h2:nth-of-type(3) > a[href^="https://www.166cai.com/ssq"]
-www.2345.com##h2:nth-of-type(3) > a[href^="https://www.166cai.com/"]:nth-of-type(3)
-www.2345.com##h2:nth-of-type(2) > a[href^="http://licai.2345.com/gupiao/"]
-www.2345.com##a[href="http://game.2345.com/qipai.htm"]
-www.2345.com##.first > a[href^="http://wan.2345.com/"]
-www.2345.com##.first > a[href="http://xiaoyouxi.2345.com/"]
-www.2345.com##.first > a[href="http://www.contentchina.com/zhibo/"]
-www.2345.com##h2:nth-of-type(3) > .cut:nth-of-type(6)
-www.2345.com##h2:nth-of-type(3) > .cut:nth-of-type(4)
-www.2345.com##h2:nth-of-type(3) > .cut:nth-of-type(3)
-www.2345.com##h2:nth-of-type(2) > .cut:nth-of-type(4)
-www.2345.com##h2:nth-of-type(2) > .cut:nth-of-type(3)
-www.2345.com##h2:nth-of-type(2) > .cut:nth-of-type(1)
-!www.2345.com##.linebottom_kz:nth-of-type(3)
-www.2345.com##.first > .cut:nth-of-type(9)
-www.2345.com##.first > .cut:nth-of-type(8)
-www.2345.com##.first > .cut:nth-of-type(7)
-www.2345.com##.first > .cut:nth-of-type(2)
-www.2345.com###sidenav
-www.2345.com##dl:nth-of-type(10)
-www.2345.com##dl:nth-of-type(17)
+2345.com###map_game
+2345.com###map_video
+2345.com###map_buy
+2345.com###map_these
+2345.com###map_life
+2345.com##.chc-dzoem
+2345.com###nav > .mz-list:nth-of-type(1)
+2345.com##.mz-list:nth-of-type(2)
+2345.com###J_kzjx > dl:nth-of-type(1)
+2345.com###J_kzjx > H2:nth-child(9) > A:nth-child(11)
+! 2345.com##dl:nth-of-type(1)
+2345.com##dl:nth-of-type(4)
+2345.com##dl:nth-of-type(8)
+2345.com##dl:nth-of-type(12)
+2345.com##dl:nth-of-type(14)
+2345.com##h2:nth-of-type(2) > a[href^="http://www.2345.com/ershouche.htm"]
+2345.com##h2:nth-of-type(2) > a[href="http://www.duote.com/"]
+2345.com##h2:nth-of-type(3) > a[href^="https://www.166cai.com/ssq"]
+2345.com##h2:nth-of-type(3) > a[href^="https://www.166cai.com/"]:nth-of-type(3)
+2345.com##h2:nth-of-type(2) > a[href^="http://licai.2345.com/gupiao/"]
+2345.com##a[href="http://game.2345.com/qipai.htm"]
+2345.com##.first > a[href^="http://wan.2345.com/"]
+2345.com##.first > a[href="http://xiaoyouxi.2345.com/"]
+2345.com##.first > a[href="http://www.contentchina.com/zhibo/"]
+2345.com##h2:nth-of-type(3) > .cut:nth-of-type(6)
+2345.com##h2:nth-of-type(3) > .cut:nth-of-type(4)
+2345.com##h2:nth-of-type(3) > .cut:nth-of-type(3)
+2345.com##h2:nth-of-type(2) > .cut:nth-of-type(4)
+2345.com##h2:nth-of-type(2) > .cut:nth-of-type(3)
+2345.com##h2:nth-of-type(2) > .cut:nth-of-type(1)
+!2345.com##.linebottom_kz:nth-of-type(3)
+2345.com##.first > .cut:nth-of-type(9)
+2345.com##.first > .cut:nth-of-type(8)
+2345.com##.first > .cut:nth-of-type(7)
+2345.com##.first > .cut:nth-of-type(2)
+2345.com###sidenav
+2345.com##dl:nth-of-type(10)
+2345.com##dl:nth-of-type(17)
 !top
-www.2345.com##.top_logo
-www.2345.com##.top_left
-www.2345.com###userct4
-www.2345.com###userct3_down > ol > li.jifen:nth-child(3)
-www.2345.com###userct3_down > ol > li.sjlm:nth-child(4)
-www.2345.com###userct2_down > ol > li.jifen:nth-child(4)
-www.2345.com###userct2_down > ol > li.sjlm:last-child
-www.2345.com###J_search_bd > DIV.mes-area:nth-child(3)
+2345.com##.top_logo
+2345.com##.top_left
+2345.com###userct4
+2345.com###userct3_down > ol > li.jifen:nth-child(3)
+2345.com###userct3_down > ol > li.sjlm:nth-child(4)
+2345.com###userct2_down > ol > li.jifen:nth-child(4)
+2345.com###userct2_down > ol > li.sjlm:last-child
+2345.com###J_search_bd > DIV.mes-area:nth-child(3)
 ! right
-! www.2345.com###right
-www.2345.com###J_gameChannel
+! 2345.com###right
+2345.com###J_gameChannel
 2345.com##.mod.event1.event1-hasList
-www.2345.com###J_entertainChannel
-www.2345.com##dd:nth-of-type(7)
-www.2345.com##.even-item:nth-of-type(12)
-! www.2345.com##.item-first.item > .bdArea > .data:nth-of-type(2)
-! www.2345.com##.item:nth-of-type(2) > .bdArea > .data:nth-of-type(5)
-! www.2345.com##.item:nth-of-type(3) > .bdArea > .data:nth-of-type(5)
-||www.2345.com/theme/skinimg/1/theme_bot.jpg$image
+2345.com###J_entertainChannel
+2345.com##dd:nth-of-type(7)
+2345.com##.even-item:nth-of-type(12)
+2345.com###J_newsChannel > UL.tag:nth-child(4)
+2345.com###J_newsChannel > DIV.mod_newsbd:last-child
+! 2345.com##.item-first.item > .bdArea > .data:nth-of-type(2)
+! 2345.com##.item:nth-of-type(2) > .bdArea > .data:nth-of-type(5)
+! 2345.com##.item:nth-of-type(3) > .bdArea > .data:nth-of-type(5)
+||2345.com/theme/skinimg/1/theme_bot.jpg$image
 !--------------------------TaoBaoYouXianMimaDengLu-----------------------!
 !login.taobao.com##div.quick-form:has(.qrcode-login)
 !login.taobao.com#$##J_StaticForm{display:block!important;}
@@ -74,6 +76,10 @@ www.2345.com##.even-item:nth-of-type(12)
 ! BaiDuDingBuJianKong 
 baidu.com##.res_top_banner
 www.baidu.com##.adv_wrapper
+tieba.baidu.com##.head_ad_pop
+!------------------------------QingShuang-Tencent------------------------!
+v.qq.com##.mod_ad_square
+v.qq.com##.cf.player_headline > .mod_ad
 !------------------------------QingShuang-QZONE--------------------------!
 i.qq.com##.linwei-areax
 i.qq.com##.linwei-logo
